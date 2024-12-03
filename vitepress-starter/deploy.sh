@@ -15,6 +15,6 @@ git commit -m 'deploy'
 
 # jingzh-1214/my-vitepress-project-test2 为自己的用户名和对应的仓库名
 # 意思为将master构建后的代码合并到gh-pages分支上，然后在gh-pages分支上部署~
-git push -f git@github.com:jingzh-1214/my-vitepress-project-test2.git master:gh-pages
+git push -f git@github.com:jingzh-1214/my-vitepress-test-git.git master:gh-pages
 
 cd -
