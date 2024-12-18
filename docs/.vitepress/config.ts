@@ -30,7 +30,8 @@ export default {
           {text:'活动中心', link:'/item/item-2'},
           {text:'宣传中心', link:'/item/item-3'}
    	       ]
-    } 
+    },
+    { text: '推文', link:'/post'}
     ]
   
   // sidebar
