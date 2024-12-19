@@ -20,11 +20,17 @@ hero:
       link: /history
     
 features:
-    - title: A 
-      details: aaa
-      link: https://www.zhaowenyu.com/markdown-doc/md-link.html
-      linkText: 链接
-    - title: B
-      details: bbb
+  - icon: hi~
+    title: 暖心、解惑
+    details: 心灵电台/解忧信箱
+  - icon: hi~
+    title: 解压、探索
+    details: 沙盘/OH卡/系列团辅
+  - icon: hi~
+    title: 沙盘/OH卡/系列团辅
+    details: 育心讲堂/读书观影沙龙
+  - icon: hi~
+    title: 体验、创造
+    details: 彩绘石膏/微漫画/表情包
 ---
 
