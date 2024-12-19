@@ -8,7 +8,8 @@ hero:
     text: 探索自我，推己及人!
     tagline: /言传身教交朋友，以心换心健心理/ 
     image:
-      src: logo_pink.png
+      src: /logo_pink.png
+      alt: logo
 
     actions:
     - theme: brand
@@ -18,7 +19,7 @@ hero:
       text: 历史
       link: /history
     
-    features:
+features:
     - title: A 
       details: aaa
       link: https://www.zhaowenyu.com/markdown-doc/md-link.html
