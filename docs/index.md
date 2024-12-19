@@ -8,7 +8,7 @@ hero:
     text: 探索自我，推己及人!
     tagline: /言传身教交朋友，以心换心健心理/ 
     image:
-      src: huaxiaoxin_pink.jpg
+      src: logo_pink.png
 
     actions:
     - theme: brand
