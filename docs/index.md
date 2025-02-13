@@ -20,16 +20,16 @@ hero:
       link: /history
     
 features:
-  - icon: hi~
+  - icon: 💞
     title: 暖心、解惑
     details: 心灵电台/解忧信箱
-  - icon: hi~
+  - icon: 🧘‍
     title: 解压、探索
     details: 沙盘/OH卡/系列团辅
-  - icon: hi~
-    title: 沙盘/OH卡/系列团辅
+  - icon: 📽
+    title: 学习、交流
     details: 育心讲堂/读书观影沙龙
-  - icon: hi~
+  - icon: 🎨
     title: 体验、创造
     details: 彩绘石膏/微漫画/表情包
 ---
